@@ -90,7 +90,7 @@ export default {
   border: 0;
   border-radius: 5px;
   background-color: rgba(241, 241, 241, 0.98);
-  width: 50em;
+  width: 50%;
   height: 15em;
   padding: 10px;
   resize: none;
